@@ -1,6 +1,8 @@
 # CPS-Project_LunarModule
 
-This repository contains the materials needed to reproduce the project we did for the Cyber Physica Systems exam held by Prof. Laura Nenzi.
+This repository contains the materials needed to reproduce the project we did for the Cyber Physica Systems exam given by Prof. Laura Nenzi.
+Briefly, we are trying to use Deep Q Network (DQN) to train a neural network to control a lunar module during the landing procedure.
+We use Signal Temporal Logic (STL) to test whether the designed solution meets a set of given specifications.
 
 See ```report.pdf``` for a detailed description of the problem and the designed solution.
 
